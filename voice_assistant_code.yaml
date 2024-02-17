@@ -34,10 +34,10 @@ logger:
 # Enable Home Assistant API
 api:
   encryption:
-    key: "Py9vT1m5aVCCqV/+ZDbS9i8dn8LMZJRvBiTNevvv2Gc="
+    key: "snip"
 
 ota:
-  password: "90e29de14c5b0537f579ee38a2d5d224"
+  password: "snip"
 
 wifi:
   ssid: !secret wifi_ssid
@@ -45,8 +45,8 @@ wifi:
 
   # Enable fallback hotspot (captive portal) in case wifi connection fails
   ap:
-    ssid: "Voice-Assistant-2"
-    password: "D1cfDQTZCBlJ"
+    ssid: "snip"
+    password: "snip"
 
 esp_adf:
 external_components:
